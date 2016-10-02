@@ -15,5 +15,5 @@ By Embedding the javascript file to the page. It will automatically prevent righ
 ##CDN
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://gist.github.com/juthawong/31a4b57581a79c6c8ee7.js"></script>
+<script src="https://raw.githubusercontent.com/juthawong/Prevent-Media-Right-Click-Website-Plugin/master/allcmspreventclick.js"></script>
 ```
